@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\TankController.cs" />
+    <Compile Include="Assets\Scripts\GunController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
